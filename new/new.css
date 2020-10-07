@@ -1,0 +1,12 @@
+.text {
+    text-align: center;
+    color: rgb(138, 119, 119);
+    position: absolute;
+    }
+    .content {
+        height: 200px;
+        width: 100%;
+        background-image:url("./images/hinh_nen_dep.png");
+        background-size:cover;
+        }
+        
